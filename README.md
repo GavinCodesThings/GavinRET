@@ -32,6 +32,9 @@ Allows you to scan for memory addresses using sigs
 ### XREF Scanner
 If added, it allows you to scan for XREFs to get memory addresses (kinda self explanatory but ok.)
 
+## Java Decompiler
+Allow you to view source code from .jar files
+
 ## What might be added in the future?
 ### Decompiler
 If this gets added, it will work along with the diassembler to generate C-like code from assembly code
