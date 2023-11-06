@@ -10,10 +10,14 @@ Coded in C# and C++
 ### Disassembler
 Allows you to view a program's assembly code
 
+Comes with a "rewriter" to make the disassembly code a little bit easier to understand
+
 Might include a decompiler and strings window in the future
 
 ### Memory Scanner
 Allows you to scan a process's memory (kinda like Cheat Engine)
+
+Comes with a signature and xref scanner
 
 ### Lua Deobfuscator/Constant Dumper
 Allows you to deobfuscate/dump obfuscated Lua code
@@ -24,13 +28,7 @@ Currently only works on IronBrew2
 Allows you to view a list of all active NamedPipes
 
 ### DLL Injector
-Allows you to inject DLLs into a process
-
-### Signature Scanner
-Allows you to scan for memory addresses using sigs
-
-### XREF Scanner
-If added, it allows you to scan for XREFs to get memory addresses (kinda self explanatory but ok.)
+Allows you to inject DLLs into a processt
 
 ## Java Decompiler
 Allow you to view source code from .jar files
